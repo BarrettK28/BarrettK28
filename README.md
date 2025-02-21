@@ -1,4 +1,6 @@
 ## Hi there 👋
+## I'm a student at the University of Missouri in Columbia pursuing my degree in Computer Science.
+## Every project I complete throughout my journey will be stored here in this repository.
 
 <!--
 **BarrettK28/BarrettK28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
